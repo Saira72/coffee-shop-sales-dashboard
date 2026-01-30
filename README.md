@@ -126,6 +126,7 @@ Conditional formatting driven by measures
 
 Coffee-Shop-Sales-PowerBI/
 │
+
 ├── Coffee_Shop_Sales.csv
 
 ├── Coffee_Shop_Sales.pbix
