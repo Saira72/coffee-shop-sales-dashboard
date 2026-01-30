@@ -2,6 +2,12 @@
 
 Overview
 
+Product Analysis
+
+Sales by Product Category (clustered bar chart)
+
+Sales by Product Type (clustered bar chart)
+
 This project is an interactive Power BI dashboard built to analyze coffee shop sales performance across time, products, and store locations.
 
 All data preparation, modeling, and calculations were done within Power BI using DAX and Power Query.
