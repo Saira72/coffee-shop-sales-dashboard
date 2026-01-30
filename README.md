@@ -106,6 +106,11 @@ coffee-shop-sales-dashboard/
 └── README.md
 
 ---
+coffee-shop-sales-dashboard/
+├── Coffee_Shop_Sales_Dashboard.pbix
+├── Coffee_Shop_Sales.csv
+└── README.md
+---
 
 ## Purpose
 This project demonstrates practical Power BI, DAX, and data modeling skills suitable for data analyst and business intelligence roles.
